@@ -1,0 +1,10 @@
+{
+  "name": "Recu-Pp7.1_FrandyJuniorSantana",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

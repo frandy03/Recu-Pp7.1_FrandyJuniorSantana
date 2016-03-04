@@ -1,0 +1,9 @@
+
+.fondo{
+	background-color: grey;
+}
+
+.cuadro{
+	border: solid 2px #000 ;
+	background-color: grey;
+}
